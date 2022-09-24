@@ -7,13 +7,13 @@
 .mat-card{
   max-width: 600px;
   background-color: rgb(128, 221, 185);
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
   margin-top: 5px;
 }
 
 .mat-form-field{
-  margin-left: 5px;
+  margin-right: 10px;
 }
 
 .mat-card-subtitle{
@@ -21,4 +21,8 @@
   margin-left: 5px;
  }
 
+ .mat-card-footer{
+   display: flex;
+   justify-content: center;
+ }
  
