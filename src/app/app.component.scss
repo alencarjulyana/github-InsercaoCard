@@ -5,11 +5,12 @@
 }
 
 .mat-card{
-  background-color: rgb(128, 221, 185);
-  margin-left: 4px;
-  margin-right: 4px;
-  margin-top: 4px;
   max-width:624px;
+  background-color: rgb(128, 221, 185);
+  margin-left: 10px;
+  margin-right:10px;
+  margin-top: 10px;
+ 
   
 }
 
@@ -19,7 +20,7 @@
 
 .mat-card-subtitle{
   display: flex;
-  }
+}
 
  .mat-card-footer{
    display: flex;
